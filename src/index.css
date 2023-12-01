@@ -1,0 +1,19 @@
+.hi {
+  background-color: yellow;
+}
+
+li {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin: 0;
+}
+
+.name {
+  margin: 0;
+  width: 15vw;
+}
+
+.description {
+  margin: 0;
+}
